@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **priyesh9080@gmail.com** For Collaboration/Project or Anyt
 - 🌱 **I’m currently learning:** advance SQL
 - 👯 **I’m looking to collaborate on:** big data analytical project
 - 💬 **Ask me about:** Collaboration, Data Project
-- 📫 **How to reach me:** https://priyesh47data.github.io/Portfolio/Main_Folder/
+- 📫 **How to reach me:** https://priyesh-five.vercel.app/
 - 😄 **Pronouns:** Priyesh Tiwari
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
